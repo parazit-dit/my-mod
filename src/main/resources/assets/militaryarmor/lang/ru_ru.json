@@ -1,0 +1,15 @@
+{
+  "item.militaryarmor.military_helmet": "Военная каска",
+  "item.militaryarmor.military_chestplate": "Бронежилет",
+  "item.militaryarmor.military_leggings": "Военные поножи",
+  "item.militaryarmor.military_boots": "Военные берцы",
+  "item.militaryarmor.heavy_helmet": "Тяжёлый штурмовой шлем",
+  "item.militaryarmor.heavy_chestplate": "Тяжёлый бронежилет",
+  "item.militaryarmor.heavy_leggings": "Тяжёлые штурмовые поножи",
+  "item.militaryarmor.heavy_boots": "Тяжёлые штурмовые ботинки",
+  "item.militaryarmor.arctic_helmet": "Арктическая каска",
+  "item.militaryarmor.arctic_chestplate": "Арктический жилет",
+  "item.militaryarmor.arctic_leggings": "Арктические поножи",
+  "item.militaryarmor.arctic_boots": "Арктические берцы",
+  "item.militaryarmor.demolition_belt": "Пояс подрывника"
+}

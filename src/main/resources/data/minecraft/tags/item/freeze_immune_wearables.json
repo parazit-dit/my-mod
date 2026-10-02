@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "militaryarmor:arctic_helmet", "required": false },
+    { "id": "militaryarmor:arctic_chestplate", "required": false },
+    { "id": "militaryarmor:arctic_leggings", "required": false },
+    { "id": "militaryarmor:arctic_boots", "required": false }
+  ]
+}

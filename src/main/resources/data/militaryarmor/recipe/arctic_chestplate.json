@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["W W","WSW","WWW"],
+  "key": { "W": { "item": "minecraft:white_wool" }, "S": { "item": "minecraft:snow_block" } },
+  "result": { "id": "militaryarmor:arctic_chestplate" }
+}

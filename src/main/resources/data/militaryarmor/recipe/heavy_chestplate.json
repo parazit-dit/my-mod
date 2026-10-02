@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["I I","IBI","IBI"],
+  "key": { "I": { "item": "minecraft:iron_ingot" }, "B": { "item": "minecraft:iron_block" } },
+  "result": { "id": "militaryarmor:heavy_chestplate" }
+}

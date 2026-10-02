@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["I I","IWI","IWI"],
+  "key": { "I": { "item": "minecraft:iron_ingot" }, "W": { "item": "minecraft:green_wool" } },
+  "result": { "id": "militaryarmor:military_chestplate" }
+}
